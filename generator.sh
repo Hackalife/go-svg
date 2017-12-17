@@ -16,7 +16,7 @@ y_y=0
  echo "<!DOCTYPE html>
 <html>
   <head>
-    <meta name="author" content="Lukas">
+    <meta name="author" content="Hackalife">
   <title>Go-Brett $1 x $2</title>  </head>
   <body>
   <!--X =($1), Y=($2) -->
